@@ -7,8 +7,10 @@
 - I am graduating Information Systems(Centro Universitário UniFanor Wyden).
 
 Tech Stack
--
--
+- Back-end(Rails)
+- Front-end(Javascript, Jquery)
+- Test(Rspec, Minitest)
+- Dev-ops(Semaphore)
 
 🤝🏻 Contact
 - danielddr15@gmail.com
