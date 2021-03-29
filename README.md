@@ -6,7 +6,7 @@
 - Brazilian, Single, 29 years old.
 - I am graduating Information Systems(Centro Universitário UniFanor Wyden).
 
-hammer_and_wrench Tech Stack
+Tech Stack
 -
 -
 
