@@ -3,18 +3,18 @@
 - I like to find different approaches to solve a problem and choose the best one according to the needs. I am currently interested in learning more about test-driven development.
 
 👨🏻‍💻 About Me
-- Brazilian, Single, 29 years old.
+- :brazil: Brazilian, Single, 29 years old.
 - I am graduating Information Systems(Centro Universitário UniFanor Wyden).
 
-Tech Stack
+:hammer_and_wrench: Tech Stack
 - Back-end(Rails)
 - Front-end(Javascript, Jquery)
 - Test(Rspec, Minitest)
 - Dev-ops(Semaphore)
 
 🤝🏻 Contact
-- danielddr15@gmail.com
-- danielnottingham.ti@gmail.com
+- :e-mail: danielddr15@gmail.com
+- :e-mail: danielnottingham.ti@gmail.com
 
 
 <!--
