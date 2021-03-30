@@ -15,6 +15,7 @@
 🤝🏻 Contact
 - :e-mail: danielddr15@gmail.com
 - :e-mail: danielnottingham.ti@gmail.com
+- https://www.linkedin.com/in/daniel-nottingham-433713177/
 
 
 <!--
