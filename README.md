@@ -15,7 +15,7 @@
 🤝🏻 Contact
 - :e-mail: danielddr15@gmail.com
 - :e-mail: danielnottingham.ti@gmail.com
-- https://www.linkedin.com/in/daniel-nottingham-433713177/
+- <a href="https://www.linkedin.com/in/daniel-nottingham-433713177" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 
 <!--
