@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Daniel Nottingham.
 
-- I like to find different approaches to solve a problem and choose the best one according to the needs. I am currently interested in learning more about test-driven development.
+- I like to find different approaches to solve a problem and choose the best one according to the needs. 
 
 👨🏻‍💻 About Me
 - :brazil: Brazilian, Single, 29 years old.
