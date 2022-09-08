@@ -3,12 +3,11 @@
 👨‍💻 I'm currently working with Ruby on Rails, PostgreSQL, View Components, Interactors, Hotwire and Stimulus.
 <hr/>
 
-<div style="display: inline_block">
+<div style="display: inline_block"><br>
 
-[![Nottingham's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielnottingham&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  [![Nottingham's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielnottingham&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielnottingham&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielnottingham&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <hr/>
 
@@ -23,3 +22,11 @@
 ![Css3](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](	https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](	https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+<hr/>
+
+<div>
+  <a href="https://www.linkedin.com/in/daniel-nottingham-433713177/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
