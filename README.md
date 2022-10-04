@@ -3,14 +3,6 @@
 👨‍💻 I'm currently working with Ruby on Rails, PostgreSQL, View Components, Interactors, Hotwire and Stimulus.
 <hr/>
 
-<div style="display: inline_block"><br>
-
-  [![Nottingham's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielnottingham&theme=dracula)](https://github.com/danielnottingham/github-readme-stats)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielnottingham&layout=compact&theme=dracula)](https://github.com/danielnottingham/github-readme-stats)
-</div>
-<hr/>
-
 ### 🛠️ Skills
 
 ![Rails](	https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
